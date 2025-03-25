@@ -1,7 +1,8 @@
-# Vehicle Rental Management System
+# Vehicle Rental Management System (OLD)
 
 A Java-based vehicle rental management system that handles different types of vehicles including cars and trucks. The system supports both customer and administrator operations.
- This project was one of the projects I have created in my learning process to master OOP in java.
+
+This project was one of the projects I have created in my learning process to master OOP in java.
  
 ## Features
 
